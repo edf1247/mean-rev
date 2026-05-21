@@ -16,4 +16,4 @@ I implemented a simple mean reversion strategy, using the 5 day moving average.
 
 ## Results
 
-<img width="1431" height="764" alt="image" src="https://github.com/user-attachments/assets/f1b111f2-93b1-4028-a22f-0c198607e548" />
+<img width="1431" height="766" alt="image" src="https://github.com/user-attachments/assets/e434963c-2761-4ab2-bcb9-73d4a784dd00" />
